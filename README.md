@@ -70,6 +70,20 @@ Playwright implementation variant
 
 Reporting integration (Allure / Extent)
 
+## Framework Components
+
+DriverManager  
+Centralized WebDriver lifecycle management.
+
+Page Objects  
+Encapsulates UI interactions following Page Object Model design.
+
+Test Classes  
+TestNG-based test execution layer.
+
+Config  
+Environment configuration using properties file.
+
 Author
 
 Sunil Betageri
